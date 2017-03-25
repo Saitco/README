@@ -13,7 +13,7 @@
 - [Author](#author)
 - [License](#license)
 - [Otros Ejemplos](#otros-ejemplos)
-  - [Bloques de códigos](#bloques-de-codigos)
+  - [Bloques de códigos](#bloques-de-códigos)
   - [Resaltar texto](#resaltar-texto)
   - [Badges](#badges)
   - [Imagen](#imagen)
