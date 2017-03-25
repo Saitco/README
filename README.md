@@ -33,7 +33,7 @@ Clonar el repositorio, luego en una terminal ejecutar `pod install` para instala
 Matías Correnti, [@matCorrenti][myTwitter].
 
 ## License
-NAME is available under the MIT license. See the [LICENSE](img/rosaL.svg) file for more info.
+NAME is available under the MIT license. See the [LICENSE](img/rosaL.png) file for more info.
 
 
 
