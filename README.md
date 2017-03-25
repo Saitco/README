@@ -9,12 +9,12 @@
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Download](#download)
+<!-- - [Download](#download) -->
 - [Author](#author)
 - [License](#license)
-- [Otros Ejemplos](#otros_ejemplos)
-  - [Bloques de códigos](#bloques_de_codigos)
-  - [Resaltar texto](#resaltar_texto)
+- [Otros Ejemplos](#otros-ejemplos)
+  - [Bloques de códigos](#bloques-de-codigos)
+  - [Resaltar texto](#resaltar-texto)
   - [Badges](#badges)
   - [Imagen](#imagen)
 
@@ -33,7 +33,7 @@ Clonar el repositorio, luego en una terminal ejecutar `pod install` para instala
 Matías Correnti, [@matCorrenti][myTwitter].
 
 ## License
-NAME is available under the MIT license. See the [LICENSE](img/rosaL.png) file for more info.
+NAME is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 
 
@@ -110,4 +110,4 @@ let text: String = "Texto"
 
 
 <!-- Links Imagenes -->
-[logo]: img/rosaL.svg "Icono de la App"
+[logo]:https://github.com/Saitco/README/blob/master/img/rosaL.png "Icono de la App"
