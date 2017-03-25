@@ -9,7 +9,7 @@
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installation](#installation)
-<!-- - [Download](#download) -->
+- [Download](#download)
 - [Author](#author)
 - [License](#license)
 - [Otros Ejemplos](#otros-ejemplos)
@@ -26,8 +26,8 @@
 ## Installation
 Clonar el repositorio, luego en una terminal ejecutar `pod install` para instalar las dependencias del proyecto. Por último abrir `NAME.xcworkspace` y compilar la App.
 
-<!-- ## Download -->
-<!-- App disponible en [iTunes][AppStore] para su descarga. -->
+## Download
+App disponible en [iTunes][AppStore] para su descarga.
 
 ## Author
 Matías Correnti, [@matCorrenti][myTwitter].
@@ -103,9 +103,9 @@ let text: String = "Texto"
 [cocoDocs]:https://img.shields.io/cocoapods/metrics/doc-percent/EXTClass.svg
 [tag]:https://img.shields.io/github/tag/Saitco/EXTClass.svg
 [release]:https://img.shields.io/github/release/Saitco/EXTClass.svg
-[issuesOpen]:https://img.shields.io/github/issues/Saitco/EXTClass.svg
-[licenseGitHub]:https://img.shields.io/github/license/Saitco/EXTClass.svg
-[dowEXTClass]:https://img.shields.io/github/downloads/Saitco/EXTClass/total.svg
+[issuesOpen]:https://img.shields.io/github/issues/Saitco/README.svg
+[licenseGitHub]:https://img.shields.io/github/license/Saitco/README.svg
+[dowEXTClass]:https://img.shields.io/github/downloads/Saitco/README/total.svg
 [commitEXT]:https://img.shields.io/github/commits-since/Saitco/EXTClass/0.3.2.svg
 
 
