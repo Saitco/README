@@ -1,7 +1,7 @@
 
 <!-- Para abrir el preview en Atom: ^ (control) + shift + M -->
 
-# NAME
+# README
 [![platform][License]][License]
 [![platform][Platform]][Platform]
 
@@ -33,7 +33,7 @@ App disponible en [iTunes][AppStore] para su descarga.
 Matías Correnti, [@matCorrenti][myTwitter].
 
 ## License
-NAME is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+README is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 
 
